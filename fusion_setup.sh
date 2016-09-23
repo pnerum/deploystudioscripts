@@ -1,6 +1,7 @@
 #!/bin/sh
 # Created by Patrick van Nerum, Willem de Kooning academy
 # Create a Fusion drive and split it up in 2 partitions. We use this second partition where students store their data.
+# The partition volumes are as follows: 250GB Macintosh (system) 750GB DataStorage 
 # Still needs some finishing touches
 # It works for a 1 TB Fusion drive
 
